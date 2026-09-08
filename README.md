@@ -51,6 +51,7 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
+
 ![img11](./Screenshots/img1.png)
 
 $ ipcs
